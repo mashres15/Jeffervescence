@@ -1,0 +1,18 @@
+ul
+{
+    list-style-type: none;
+}
+ul > li{
+    background-color: bisque;
+    margin: 1px;
+    padding: 7px;
+    text-align: right;    
+}
+
+.right{
+    margin-left: 30px;
+}
+
+.promote{
+    background-color: darkslategray;
+}
